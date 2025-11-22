@@ -54,17 +54,17 @@ job-market-streamlit/
 ├── app.py
 ├── requirements.txt
 ├── data/
-│ ├── jobs_raw.csv
-│ └── jobs_clean.csv
+│   ├── jobs_raw.csv
+│   └── jobs_clean.csv
 ├── src/
-│ ├── data.py
-│ ├── filters.py
-│ ├── metrics.py
-│ └── charts.py
+│   ├── data.py
+│   ├── filters.py
+│   ├── metrics.py
+│   └── charts.py
 ├── assets/
-│ └── styles.css
+│   └── styles.css
 ├── notebooks/
-│ └── exploration.ipynb
+│   └── exploration.ipynb
 └── README.md
 
 
