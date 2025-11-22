@@ -48,26 +48,6 @@ pip install -r requirements.txt
 **Step 4:** Run the dashboard  
 streamlit run app.py
 
-## 📂 Folder Structure
-
-job-market-streamlit/
-├── app.py
-├── requirements.txt
-├── data/
-│   ├── jobs_raw.csv
-│   └── jobs_clean.csv
-├── src/
-│   ├── data.py
-│   ├── filters.py
-│   ├── metrics.py
-│   └── charts.py
-├── assets/
-│   └── styles.css
-├── notebooks/
-│   └── exploration.ipynb
-└── README.md
-
-
 ---
 
 ## 🔎 Main Libraries
