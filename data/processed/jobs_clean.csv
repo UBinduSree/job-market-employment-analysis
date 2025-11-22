@@ -1,0 +1,25 @@
+job_title,role,company,location,industry,experience_level,employment_type,salary_min,salary_max,salary_mid,posted_date,posted_month,skills,skills_vocab
+Data Analyst,Data Analyst,Acme Corp,Bangalore,Technology,Entry,Full-time,600000,1000000,800000,2025-12-24,2025-12-01,"python, sql, excel","['python','sql','excel']"​
+Web Developer,Web Developer,ByteWorks,Remote,Technology,Mid,Contract,900000,1200000,1050000,2025-08-05,2025-08-01,"javascript, react, node","['javascript','react','node']"​
+Backend Engineer,Backend Engineer,CodeNest,Hyderabad,Technology,Senior,Full-time,7500000,10000000,8750000,2025-08-15,2025-08-01,"python, django, rest","['python','django','rest']"​
+ML Engineer,ML Engineer,DataForge,Pune,Technology,Mid,Full-time,800000,1400000,1100000,2025-07-20,2025-07-01,"python, tensorflow, sql","['python','tensorflow','sql']"​
+Data Scientist,Data Scientist,InsightHub,Chennai,Technology,Senior,Full-time,1800000,1800000,1800000,2025-07-15,2025-07-01,"python, pandas, scikit-learn","['python','pandas','scikit-learn']"​
+Business Analyst,Business Analyst,MarketMinds,Mumbai,Consulting,Entry,Full-time,500000,700000,600000,2025-07-10,2025-07-01,"excel, sql, power bi","['excel','sql','power bi']"​
+Data Analyst,Data Analyst,Acme Corp,Bangalore,Technology,Mid,Contract,800000,1100000,950000,2025-09-01,2025-09-01,"python, sql, tableau","['python','sql','tableau']"​
+Web Developer,Web Developer,ByteWorks,Remote,Technology,Entry,Internship,300000,450000,375000,2025-08-20,2025-08-01,"html, css, javascript","['html','css','javascript']"​
+Backend Engineer,Backend Engineer,CodeNest,Hyderabad,Technology,Mid,Full-time,1200000,1600000,1400000,2025-07-28,2025-07-01,"python, flask, postgresql","['python','flask','postgresql']"​
+ML Engineer,ML Engineer,DataForge,Pune,Technology,Senior,Full-time,2000000,3000000,2500000,2025-07-30,2025-07-01,"python, pytorch, mlops","['python','pytorch','mlops']"​
+Data Scientist,Data Scientist,InsightHub,Chennai,Technology,Mid,Full-time,1000000,1600000,1300000,2025-08-12,2025-08-01,"python, sql, nlp","['python','sql','nlp']"​
+Business Analyst,Business Analyst,MarketMinds,Mumbai,Consulting,Senior,Contract,1000000,1500000,1250000,2025-09-05,2025-09-01,"power bi, excel, sql","['power bi','excel','sql']"​
+Data Analyst,Data Analyst,Acme Corp,Bangalore,Technology,Entry,Full-time,550000,800000,675000,2025-08-01,2025-08-01,"python, excel, statistics","['python','excel','statistics']"​
+Web Developer,Web Developer,ByteWorks,Remote,Technology,Senior,Full-time,5800000,8300000,7050000,2025-08-05,2025-08-01,"javascript, vue, node","['javascript','vue','node']"​
+Backend Engineer,Backend Engineer,CodeNest,Hyderabad,Technology,Entry,Full-time,700000,900000,800000,2025-07-15,2025-07-01,"python, sql, linux","['python','sql','linux']"​
+ML Engineer,ML Engineer,DataForge,Pune,Technology,Mid,Full-time,1400000,1800000,1600000,2025-09-10,2025-09-01,"python, tensorflow, airflow","['python','tensorflow','airflow']"​
+Data Scientist,Data Scientist,InsightHub,Chennai,Technology,Entry,Internship,200000,300000,250000,2025-08-01,2025-08-01,"python, pandas, excel","['python','pandas','excel']"​
+Business Analyst,Business Analyst,MarketMinds,Mumbai,Consulting,Mid,Full-time,800000,1200000,1000000,2025-07-22,2025-07-01,"excel, power bi, sql","['excel','power bi','sql']"​
+Data Analyst,Data Analyst,Acme Corp,Bangalore,Technology,Senior,Full-time,1500000,1500000,1500000,2025-09-18,2025-09-01,"python, sql, tableau","['python','sql','tableau']"​
+Web Developer,Web Developer,ByteWorks,Remote,Technology,Mid,Contract,1000000,1300000,1150000,2025-07-25,2025-07-01,"javascript, react, redux","['javascript','react','redux']"​
+Backend Engineer,Backend Engineer,CodeNest,Hyderabad,Technology,Senior,Full-time,1500000,2200000,1850000,2025-08-22,2025-08-01,"python, fastapi, docker","['python','fastapi','docker']"​
+ML Engineer,ML Engineer,DataForge,Pune,Technology,Entry,Full-time,600000,800000,700000,2025-07-05,2025-07-01,"python, scikit-learn, sql","['python','scikit-learn','sql']"​
+Data Scientist,Data Scientist,InsightHub,Chennai,Technology,Senior,Full-time,2200000,2800000,2500000,2025-09-08,2025-09-01,"python, spark, mlflow","['python','spark','mlflow']"​
+Business Analyst,Business Analyst,MarketMinds,Mumbai,Consulting,Entry,Full-time,400000,600000,500000,2025-08-15,2025-08-01,"excel, sql, presentation","['excel','sql','presentation']"

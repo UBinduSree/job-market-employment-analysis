@@ -1,0 +1,12 @@
+# .streamlit/config.toml
+[theme]
+base="light"
+primaryColor="#ff6b00"         # bright orange accent
+backgroundColor="#fffdf7"      # warm off-white
+secondaryBackgroundColor="#ffffff"
+textColor="#1f2937"            # slate-800
+font="sans serif"
+
+# Optional: rounder widgets and visible borders (Streamlit 1.36+ advanced palette)
+[theme.sidebar]
+borderColor="#ffe3cc"
